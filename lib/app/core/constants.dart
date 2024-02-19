@@ -6,9 +6,12 @@ class Planets {
   }
 
   static final List<String> leftCorner = ["Mercúrio"];
-  static final List<String> rightCorner = ["Vênus"];
   static final List<String> back = ["Marte", "Júpiter", "Saturno"];
+  static final List<String> rightCorner = ["Vênus"];
   static final List<String> front = ["Terra", "Urano", "Netuno"];
+
+  ///netuno -> Ponta direita
+  ///remover
 }
 
 List<Color> planetListColors = [
